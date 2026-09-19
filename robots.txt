@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://timberly-bay.reallexi.io/sitemap.xml
